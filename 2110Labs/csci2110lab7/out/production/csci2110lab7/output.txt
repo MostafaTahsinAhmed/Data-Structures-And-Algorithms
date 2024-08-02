@@ -1,0 +1,67 @@
+Output for exersice1:
+
+Enter a number for factorial method
+6
+720
+Enter a number for fibonacchi method
+9
+1,1,2,3,5,8,13,21
+Enter two numbers for power method :2
+9
+512
+
+
+
+Output for exersice2:
+
+Enter a number:
+10
+10    9    8    7    6    5    4    3    2    1    BlastOff!
+
+
+Output for exersice3:
+
+Enter a number:
+8
+8  6  4  2  BlastOff!
+
+
+Enter a number:
+7
+7  5  3  1  BlastOff!
+
+
+Output for exersice4:
+
+Enter a number:
+2
+Enter a number till which you want to multiply
+5
+10,8,6,4,2
+
+Output for exersice5:
+
+Enter a number:
+12345
+1
+2
+3
+4
+5
+
+
+Output for exersice6:
+
+Enter a number:
+4
+30
+
+Output for exersice7:
+
+8 255 3817
+12 4095 3392
+16 65535 3422
+20 1048575 4091
+24 16777215 2186
+28 268435455 3269
+
